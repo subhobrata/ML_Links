@@ -1,5 +1,7 @@
 # ML_Links
 
+https://www.arshad-kazi.com/roc-curve-and-aur-from-scratch/
+
 
 https://www.muratkocaoglu.com/teaching/ece695
 https://www.amstat.org/ASA/Your-Career/Awards/Causality-in-Statistics-Education-Award.aspx
