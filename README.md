@@ -1,6 +1,7 @@
 # ML_Links
 
 https://www.arshad-kazi.com/roc-curve-and-aur-from-scratch/
+https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf
 
 
 https://www.muratkocaoglu.com/teaching/ece695
